@@ -3,23 +3,23 @@
 ## Datasets informations
 The source files contains features from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 
-	* tBodyAcc-XYZ
-	* tGravityAcc-XYZ
-	* tBodyAccJerk-XYZ
-	* tBodyGyro-XYZ
-	* tBodyGyroJerk-XYZ
-	* tBodyAccMag
-	* tGravityAccMag
-	* tBodyAccJerkMag
-	* tBodyGyroMag
-	* tBodyGyroJerkMag
-	* fBodyAcc-XYZ
-	* fBodyAccJerk-XYZ
-	* fBodyGyro-XYZ
-	* fBodyAccMag
-	* fBodyAccJerkMag
-	* fBodyGyroMag
-	* fBodyGyroJerkMag
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyro-XYZ
+* tBodyGyroJerk-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyro-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
 	   
 ## Transformation step 
 

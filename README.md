@@ -31,9 +31,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Open R studio and set the working directory under  "UCI HAR Dataset" extracted folder
 * Open run_analysis.R and run the script
 
-Once the script executed you will find clean data merged from train and test sets in final_dataset.
+Once the script is done you will find clean data merged from train and test sets in final_dataset dataframe.
 
 An average of each variable group by activity and subject will be find in final_tidy.txt
 
-To analyse this file, you must use the table.data library (read.table function)
+To analyse  final_tidy.txt, you must use the table.data library (read.table function)
 
