@@ -107,4 +107,4 @@ library(plyr)
 
 final_tidy <- ddply(final_dataset, .(subject,activityname), function(x) colMeans(x[, 2:67]))
 
-write.table(final_tidy, "final_tidy.txt", row.name=TRUE)
+write.table(final_tidy, "final_tidy.txt", row.name=FALSE)
